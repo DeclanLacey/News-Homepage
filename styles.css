@@ -235,11 +235,11 @@ img {
 @media screen and (min-width: 1440px) {
 
     .burger-menu-open-nav-container {
-        display: none;
+        display: none !important;
     }
 
     #burger-menu-open {
-        display: none;
+        display: none !important;
     }
 
     .expanded-nav {
