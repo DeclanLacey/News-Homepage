@@ -13,7 +13,6 @@ function openBurgerMenu() {
     burgerMenu.style.display = "none"
     burgerMenuOpen.style.display = "block"
     burgerNav.style.display = "block"
-
 }
 
 function closeBurgerMenu() {
